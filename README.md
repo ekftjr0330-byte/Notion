@@ -8,3 +8,7 @@ Notion
 
 
 https://ondaclouds.notion.site/VPC-Privatelink-Resource-Endpoint-339675b40a34801498ccc921945a553c
+
+
+
+https://ondaclouds.notion.site/3-Tier-Architecture-on-Serverless-336675b40a3480b29e37db3442d44597
